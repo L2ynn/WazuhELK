@@ -9,12 +9,12 @@ Comprehensive guide on integrating Wazuh with the Elastic Stack (Elasticsearch, 
 - [VirusTotal Integration](#virustotal-integration)
 - [Lockbit Detection](#lockbit-detection)
 
-## Setup & Initial Configuration
+### Setup & Initial Configuration
 
-## ELK Integration
+### ELK Integration
 
-## Active Response Configuration
+### Active Response Configuration
 
-## VirusTotal Integration
+### VirusTotal Integration
 
-## Lockbit Detection
+### Lockbit Detection
